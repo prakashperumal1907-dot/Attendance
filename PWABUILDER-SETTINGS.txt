@@ -1,0 +1,19 @@
+Attendance Book — PWABuilder Android Settings
+
+App name: Attendance Book
+Launcher name: Attendance
+Package ID: com.prakash.attendancebook
+App version: 1.0.0
+App version code: 1
+Display mode: standalone
+Orientation: portrait
+Theme color: #1B5E8E
+Background color: #EEF2F5
+Navigation color: #EEF2F5
+Navigation color dark: #0E151B
+Start URL: ./
+Scope: ./
+Signing: New signing key (first build)
+Notifications: Off
+
+Use the full HTTPS GitHub Pages URL when opening PWABuilder. Keep the Package ID unchanged for future updates. Keep the generated signing key/password safe; it is needed to update the same Android app.
